@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: rgb(241 245 249);
+}
+
+/* button{
+    background-color:#0072e5;
+    padding: 3px;
+    border-radius: 3px;
+    font-weight: 500;
+} */
